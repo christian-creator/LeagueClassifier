@@ -1,0 +1,14 @@
+Game ID: 
+team 1 : Win/loss
+Summoner_name_1 Champion_1 Rank winrate_champ %winrate_last_10
+Summoner_name_2 Champion_2 Rank winrate_champ %winrate_last_10
+Summoner_name_3 Champion_3 Rank winrate_champ %winrate_last_10
+Summoner_name_4 Champion_4 Rank winrate_champ %winrate_last_10
+Summoner_name_5 Champion_5 Rank winrate_champ %winrate_last_10
+ 
+team 2: Win/loss
+Summoner_name_1 Champion_1 Rank winrate_champ %winrate_last_10
+Summoner_name_2 Champion_2 Rank winrate_champ %winrate_last_10
+Summoner_name_3 Champion_3 Rank winrate_champ %winrate_last_10
+Summoner_name_4 Champion_4 Rank winrate_champ %winrate_last_10
+Summoner_name_5 Champion_5 Rank winrate_champ %winrate_last_10
